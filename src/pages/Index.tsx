@@ -464,7 +464,7 @@ export default function Portfolio() {
             <div className="relative">
               <div className="aspect-square rounded-3xl overflow-hidden border border-slate-200 shadow-lg">
                 <img 
-                  src="/assets/profile.png" 
+                  src="/assets/despre.png" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
